@@ -2,6 +2,8 @@
 
 This is a Weather App that displays the current weather conditions for a specified location. The app allows users to search for a city and get weather details such as temperature, humidity, and a description of the weather conditions. Users can also get weather information for their current location.
 
+test it here : https://manojvamsi7.github.io/Weather-report/
+
 ## Features
 
 - Search for weather information by city.
